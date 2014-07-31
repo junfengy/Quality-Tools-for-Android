@@ -8,6 +8,7 @@
 	<packaging>pom</packaging>
 	<name>android-sample-parent</name>
 
+
 	<properties>
 		<!-- Android Dependencies -->
 		<platform.version>4.2.2_r2</platform.version>
